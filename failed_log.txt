@@ -1,0 +1,13 @@
+
+IGL Failed at :2019-08-21 12:38:29.725980
+list index out of range
+IGL Failed at :2019-08-21 12:42:19.921833
+global name 'newdueDate' is not defined
+IGL Failed at :2019-08-21 12:44:33.642899
+global name 'new_Duedate' is not defined
+IGL Failed at :2019-08-21 12:46:36.380593
+list index out of range
+IGL Failed at :2019-08-21 12:49:34.047737
+list index out of range
+IGL Failed at :2019-08-21 12:56:34.628548
+global name 'bill_logs' is not defined
